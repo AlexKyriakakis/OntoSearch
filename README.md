@@ -5,12 +5,11 @@ It supports speech recognition in Google Chrome.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing
 
-Look for the InstalationGuide file for a step by step instalation.
+Look for the InstalationGuide file for a step by step installation.
 
 ## Built With
 
