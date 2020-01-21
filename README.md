@@ -1,3 +1,4 @@
+
 <p align="center">
    <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png">
 </p>
@@ -26,6 +27,7 @@ Look for the InstalationGuide file for a step by step installation.
 * [JavaServer Pages](https://www.oracle.com/technetwork/java/index-jsp-138231.html) - Java web technology used.
 
 ## Images
+
 <p align="center">
   <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png">
   <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png">
