@@ -1,7 +1,8 @@
 <p align="center">
    <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png">
 </p>
-# OntoSearch
+
+## OntoSearch
 
 OntoSearch is a search engine using several searching techniques to find the best bioinformatics related tool for the user's needs.
 It supports speech recognition in Google Chrome.
