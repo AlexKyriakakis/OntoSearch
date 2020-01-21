@@ -1,5 +1,6 @@
-![logo](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png)
-
+<p align="center">
+  ![logo](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png)
+</p>
 # OntoSearch
 
 OntoSearch is a search engine using several searching techniques to find the best bioinformatics related tool for the user's needs.
@@ -24,6 +25,7 @@ Look for the InstalationGuide file for a step by step installation.
 * [JavaServer Pages](https://www.oracle.com/technetwork/java/index-jsp-138231.html) - Java web technology used.
 
 ## Images
-
+<p align="center">
 ![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png)
 ![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png)
+</p>
