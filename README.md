@@ -28,6 +28,7 @@ Look for the InstalationGuide file for a step by step installation.
 
 ## Images
 
+
 <p align="center">
   <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png">
   <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png">
