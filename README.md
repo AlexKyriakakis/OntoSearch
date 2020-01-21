@@ -1,3 +1,5 @@
+![logo](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png)
+
 # OntoSearch
 
 OntoSearch is a search engine using several searching techniques to find the best bioinformatics related tool for the user's needs.
@@ -20,3 +22,8 @@ Look for the InstalationGuide file for a step by step installation.
 * [XAMPP](https://www.apachefriends.org/index.html) - Cross platform web server solution.
 * [Apache Tomcat](http://tomcat.apache.org/) - Web server that allows JSP (Java server pages) code to run.
 * [JavaServer Pages](https://www.oracle.com/technetwork/java/index-jsp-138231.html) - Java web technology used.
+
+## Images
+
+![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png)
+![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png)
