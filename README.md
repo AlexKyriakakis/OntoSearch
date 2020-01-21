@@ -1,5 +1,5 @@
 <p align="center">
-  ![logo](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png)
+   <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchLogo.png">
 </p>
 # OntoSearch
 
@@ -26,6 +26,6 @@ Look for the InstalationGuide file for a step by step installation.
 
 ## Images
 <p align="center">
-![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png)
-![alt text](https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png)
+  <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearch.png">
+  <img src="https://github.com/AlexKyriakakis/OntoSearch/blob/master/Images/OntoSearchResults.png">
 </p>
