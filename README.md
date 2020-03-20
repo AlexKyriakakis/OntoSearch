@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Look for the InstalationGuide file for a step by step installation.
+Look in the InstalationGuide file for a step by step installation.
 
 ## Built With
 
